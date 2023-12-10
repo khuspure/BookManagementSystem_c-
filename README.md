@@ -1,13 +1,7 @@
-Book Management System :
-Problem Statement:
-A Book Management System is required to efficiently organize and manage 
-information about books. The system should support various operations, 
-including adding, removing, searching, updating, and displaying book records 
-based on attributes such as Book ID, Book Name, Author Name, Price, and 
-Rating. Additionally, the system should provide the capability to show details 
-of books written by a specific author, display the top 3 books based on price 
-and rating, and access information about all the books in the database.
-Key Requirements:
+                                                                               Book Management System :
+                                                                                 Problem Statement:
+A Book Management System is required to efficiently organize and manage information about books. The system should support various operations, including adding, removin searching, updating, and displaying book records based on attributes such as Book ID, Book Name, Author Name, Price, and Rating. Additionally, the system should provide the capability to show details of books written by a specific author, display the top 3 books based on price and rating, and access information about all the books in the database.
+                                                                                Key Requirements:
 • Add Book: The system should allow users to add new books with their 
 attributes, including Book ID, Book Name, Author Name, Price, and 
 Rating.
